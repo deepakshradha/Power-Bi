@@ -85,13 +85,11 @@ To design an **integrated business intelligence solution** that:
 Include dashboard previews once available:
 
 * `Home_Page.png`
-* `Executive_View.png`
+* `https://github.com/deepakshradha/Power-Bi/blob/main/Business%20Analysis%20360/Screenshot%20Of%20Dashboard/Executive%20View.jpeg`
 * `Finance_View.png`
 * `Sales_View.png`
 * `Marketing_View.png`
 * `Supply_Chain_View.png`
 
 ---
-
-Would you like me to add a **“Key Insights Summary”** section at the end (to highlight the top 3–5 insights you derived from the data)? It makes the project stronger for recruiters and portfolio showcases.
 
