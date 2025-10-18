@@ -84,11 +84,16 @@ To design an **integrated business intelligence solution** that:
 
 Include dashboard previews once available:
 
-* `Home_Page.png`
-* (https://github.com/deepakshradha/Power-Bi/blob/main/Business%20Analysis%20360/Screenshot%20Of%20Dashboard/Executive%20View.jpeg)
-* `Finance_View.png`
-* `Sales_View.png`
-* `Marketing_View.png`
+* `Home_Page.png` ![alt text](https://github.com/deepakshradha/Power-Bi/blob/main/Business%20Analysis%20360/Screenshot%20Of%20Dashboard/Home%20View.jpeg?raw=true)
+
+* `Executive View` ![alt text](https://github.com/deepakshradha/Power-Bi/blob/main/Business%20Analysis%20360/Screenshot%20Of%20Dashboard/Executive%20View.jpeg?raw=true)
+
+* `Finance_View.png`![alt text](https://github.com/deepakshradha/Power-Bi/blob/main/Business%20Analysis%20360/Screenshot%20Of%20Dashboard/Finance%20View.jpeg?raw=true)
+  
+* `Sales_View.png` ![alt text](https://github.com/deepakshradha/Power-Bi/blob/main/Business%20Analysis%20360/Screenshot%20Of%20Dashboard/Sales%20View.jpeg?raw=true)
+
+* `Marketing_View.png`![alt text](https://github.com/deepakshradha/Power-Bi/blob/main/Business%20Analysis%20360/Screenshot%20Of%20Dashboard/Marketing%20View.jpeg?raw=true)
+
 * `Supply_Chain_View.png` ![alt text](https://github.com/deepakshradha/Power-Bi/blob/main/Business%20Analysis%20360/Screenshot%20Of%20Dashboard/Supply%20chain%20View.jpeg?raw=true)
 
 ---
