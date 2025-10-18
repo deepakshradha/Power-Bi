@@ -85,7 +85,7 @@ To design an **integrated business intelligence solution** that:
 Include dashboard previews once available:
 
 * `Home_Page.png`
-* `https://github.com/deepakshradha/Power-Bi/blob/main/Business%20Analysis%20360/Screenshot%20Of%20Dashboard/Executive%20View.jpeg`
+* (https://github.com/deepakshradha/Power-Bi/blob/main/Business%20Analysis%20360/Screenshot%20Of%20Dashboard/Executive%20View.jpeg)
 * `Finance_View.png`
 * `Sales_View.png`
 * `Marketing_View.png`
