@@ -89,7 +89,7 @@ Include dashboard previews once available:
 * `Finance_View.png`
 * `Sales_View.png`
 * `Marketing_View.png`
-* `Supply_Chain_View.png`
+* `Supply_Chain_View.png` ![alt text](https://github.com/deepakshradha/Power-Bi/blob/main/Business%20Analysis%20360/Screenshot%20Of%20Dashboard/Supply%20chain%20View.jpeg?raw=true)
 
 ---
 
